@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryTrans">#2196F3</color>
+    <color name="colorAccentTrans">#8558CE</color>
+    <color name="colorBlackTrans">#a0000000</color>
+    <!-- 灰色 -->
+    <color name="gray">#808080</color>
+    <color name="black">#FF000000</color>
+</resources>
